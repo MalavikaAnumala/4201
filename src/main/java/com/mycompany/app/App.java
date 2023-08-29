@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( " Cambridge University!London" );
+        System.out.println( " Results are out!!!" );
     }
 }
